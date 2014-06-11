@@ -1,4 +1,4 @@
-# Orleans Internet of Thing Example
+# Orleans Internet of Things Example
 
 Am extremely basic sample application to demonstrate how Project Orleans could be used in an 'Internet of Things' scenario.
 
