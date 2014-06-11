@@ -6,7 +6,7 @@ Am extremely basic sample application to demonstrate how Project Orleans could b
 
 1. Build the solution
 1. Run the local silo `$(OrleansSDK)\StartLocalSilo.cmd`
-1. Start the Web application
+1. Start the web application
 
 You can then do a POST to set the temperature of a device, or a GET to retrieve the temperature:
 
